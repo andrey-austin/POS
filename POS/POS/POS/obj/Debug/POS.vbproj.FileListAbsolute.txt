@@ -1,0 +1,34 @@
+F:\Programming Logic\Assignments\POS\POS\bin\Debug\POS.exe.config
+F:\Programming Logic\Assignments\POS\POS\bin\Debug\POS.exe
+F:\Programming Logic\Assignments\POS\POS\bin\Debug\POS.pdb
+F:\Programming Logic\Assignments\POS\POS\bin\Debug\POS.xml
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.Resources.resources
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.exe
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.xml
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.pdb
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.frmPOS.resources
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.frmTables.resources
+F:\Programming Logic\Assignments\POS\POS\obj\Debug\POS.vbprojResolveAssemblyReference.cache
+E:\sony\Programming Logic\Assignments\POS\POS\bin\Debug\POS.exe.config
+E:\sony\Programming Logic\Assignments\POS\POS\obj\Debug\POS.exe
+E:\sony\Programming Logic\Assignments\POS\POS\obj\Debug\POS.xml
+E:\sony\Programming Logic\Assignments\POS\POS\obj\Debug\POS.pdb
+E:\sony\Programming Logic\Assignments\POS\POS\bin\Debug\POS.exe
+E:\sony\Programming Logic\Assignments\POS\POS\bin\Debug\POS.pdb
+E:\sony\Programming Logic\Assignments\POS\POS\bin\Debug\POS.xml
+E:\sony\Programming Logic\Assignments\POS\POS\obj\Debug\POS.frmPOS.resources
+E:\sony\Programming Logic\Assignments\POS\POS\obj\Debug\POS.frmTables.resources
+E:\sony\Programming Logic\Assignments\POS\POS\obj\Debug\POS.Resources.resources
+E:\sony\Programming Logic\Assignments\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+H:\POS\POS\bin\Debug\POS.exe.config
+H:\POS\POS\bin\Debug\POS.exe
+H:\POS\POS\bin\Debug\POS.pdb
+H:\POS\POS\bin\Debug\POS.xml
+H:\POS\POS\obj\Debug\POS.frmPOS.resources
+H:\POS\POS\obj\Debug\POS.frmTables.resources
+H:\POS\POS\obj\Debug\POS.Resources.resources
+H:\POS\POS\obj\Debug\POS.vbproj.GenerateResource.cache
+H:\POS\POS\obj\Debug\POS.exe
+H:\POS\POS\obj\Debug\POS.xml
+H:\POS\POS\obj\Debug\POS.pdb

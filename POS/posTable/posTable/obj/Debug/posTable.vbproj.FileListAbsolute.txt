@@ -1,0 +1,21 @@
+F:\Programming Logic\Assignments\posTable\posTable\bin\Debug\posTable.exe.config
+F:\Programming Logic\Assignments\posTable\posTable\bin\Debug\posTable.exe
+F:\Programming Logic\Assignments\posTable\posTable\bin\Debug\posTable.pdb
+F:\Programming Logic\Assignments\posTable\posTable\bin\Debug\posTable.xml
+F:\Programming Logic\Assignments\posTable\posTable\obj\Debug\posTable.Resources.resources
+F:\Programming Logic\Assignments\posTable\posTable\obj\Debug\posTable.vbproj.GenerateResource.Cache
+F:\Programming Logic\Assignments\posTable\posTable\obj\Debug\posTable.exe
+F:\Programming Logic\Assignments\posTable\posTable\obj\Debug\posTable.xml
+F:\Programming Logic\Assignments\posTable\posTable\obj\Debug\posTable.pdb
+F:\Programming Logic\Assignments\posTable\posTable\obj\Debug\posTable.frmTables.resources
+H:\posTable\posTable\bin\Debug\posTable.exe.config
+H:\posTable\posTable\bin\Debug\posTable.exe
+H:\posTable\posTable\bin\Debug\posTable.pdb
+H:\posTable\posTable\bin\Debug\posTable.xml
+H:\posTable\posTable\obj\Debug\posTable.vbprojAssemblyReference.cache
+H:\posTable\posTable\obj\Debug\posTable.frmTables.resources
+H:\posTable\posTable\obj\Debug\posTable.Resources.resources
+H:\posTable\posTable\obj\Debug\posTable.vbproj.GenerateResource.cache
+H:\posTable\posTable\obj\Debug\posTable.exe
+H:\posTable\posTable\obj\Debug\posTable.xml
+H:\posTable\posTable\obj\Debug\posTable.pdb
